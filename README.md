@@ -40,3 +40,4 @@ The workflow includes **data preprocessing**, **feature extraction**, **model tr
    cd ner-project
 
    
+2. **Install requirements.txt 
