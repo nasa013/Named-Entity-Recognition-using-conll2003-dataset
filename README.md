@@ -40,4 +40,10 @@ The workflow includes **data preprocessing**, **feature extraction**, **model tr
    cd ner-project
 
    
-2. **Install requirements.txt**
+2. 📦 **Install Dependencies**
+
+Make sure you have Python installed. Then, install all the required libraries using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+
